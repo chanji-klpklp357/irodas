@@ -1,0 +1,32 @@
+# Translation of Plugins - Featured Image Generator - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Featured Image Generator - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-08 08:08:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Featured Image Generator - Development (trunk)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://designilcode.com"
+msgstr "https://designilcode.com"
+
+#. Author of the plugin/theme
+msgid "Watcharapon Charoenwongjongdee"
+msgstr "Watcharapon Charoenwongjongdee"
+
+#. Description of the plugin/theme
+msgid "Get beautiful photos from free license website like Unsplash or uploads your photo. You can customize images by inserting layers and texts. An export image for ready to use."
+msgstr "Unsplash のようなフリーライセンスウェブサイトから美しい写真を入手したり、写真をアップロードしたりできます。レイヤーとテキストを挿入してイメージをカスタマイズできます。すぐに使用できるエクスポート画像。"
+
+#. Author URI of the plugin/theme
+msgid "http://aum.im"
+msgstr "http://aum.im"
+
+#. Plugin Name of the plugin/theme
+msgid "Featured Image Generator"
+msgstr "Featured Image Generator"
